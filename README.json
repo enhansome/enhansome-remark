@@ -1,0 +1,663 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "remark",
+          "description": "Repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-01T11:01:38Z",
+            "owner": "remarkjs",
+            "repo": "remark",
+            "stars": 8975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remark-parse",
+          "description": "Markdown parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-01T11:01:38Z",
+            "owner": "remarkjs",
+            "repo": "remark",
+            "stars": 8975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remark-stringify",
+          "description": "Markdown generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-01T11:01:38Z",
+            "owner": "remarkjs",
+            "repo": "remark",
+            "stars": 8975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remark-cli",
+          "description": "Command line interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-01T11:01:38Z",
+            "owner": "remarkjs",
+            "repo": "remark",
+            "stars": 8975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unified",
+          "description": "Ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-29T11:25:24Z",
+            "owner": "unifiedjs",
+            "repo": "unified",
+            "stars": 5020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mdast",
+          "description": "Abstract syntax tree specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-04T18:45:51Z",
+            "owner": "syntax-tree",
+            "repo": "mdast",
+            "stars": 1464
+          }
+        }
+      ],
+      "title": "Official"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "remark-mdx",
+          "description": "Support MDX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T01:40:45Z",
+            "owner": "mdx-js",
+            "repo": "mdx",
+            "stars": 19736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remark-gfm",
+          "description": "Support GitHub Flavored Markdown (GFM).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-10T12:43:08Z",
+            "owner": "remarkjs",
+            "repo": "remark-gfm",
+            "stars": 1237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remark-lint",
+          "description": "Markdown code-style linter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-05T19:25:40Z",
+            "owner": "remarkjs",
+            "repo": "remark-lint",
+            "stars": 1042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remark-math",
+          "description": "Support math.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-20T11:40:20Z",
+            "owner": "remarkjs",
+            "repo": "remark-math",
+            "stars": 515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remark-toc",
+          "description": "Add a tables of contents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-20T10:51:33Z",
+            "owner": "remarkjs",
+            "repo": "remark-toc",
+            "stars": 499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remark-rehype",
+          "description": "Integrate with the rehype ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-02T13:46:56Z",
+            "owner": "remarkjs",
+            "repo": "remark-rehype",
+            "stars": 359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remark-frontmatter",
+          "description": "Support YAML/TOML/more frontmatter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-02T15:30:07Z",
+            "owner": "remarkjs",
+            "repo": "remark-frontmatter",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remark-github",
+          "description": "Support GitHub references like issues, PRs, and comments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-17T13:33:28Z",
+            "owner": "remarkjs",
+            "repo": "remark-github",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remark-man",
+          "description": "Generate man pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-22T09:20:38Z",
+            "owner": "remarkjs",
+            "repo": "remark-man",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remark-retext",
+          "description": "Integrate with the retext ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-02T12:38:33Z",
+            "owner": "remarkjs",
+            "repo": "remark-retext",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remark-license",
+          "description": "Add a license section.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-23T12:48:20Z",
+            "owner": "remarkjs",
+            "repo": "remark-license",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remark-git-contributors",
+          "description": "Add a table with git contributors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-23T12:38:48Z",
+            "owner": "remarkjs",
+            "repo": "remark-git-contributors",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gatsby",
+          "description": "Blazing fast, modern apps and websites with React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T05:12:32Z",
+            "owner": "gatsbyjs",
+            "repo": "gatsby",
+            "stars": 55941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prettier",
+          "description": "Opinionated code formatter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T07:21:35Z",
+            "owner": "prettier",
+            "repo": "prettier",
+            "stars": 52196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docz",
+          "description": "Document your design system.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-11-21T04:28:57Z",
+            "owner": "pedronauck",
+            "repo": "docz",
+            "stars": 23586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mdx",
+          "description": "Markdown combined with JSX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T01:40:45Z",
+            "owner": "mdx-js",
+            "repo": "mdx",
+            "stars": 19736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netlify-cms",
+          "description": "CMS for static site generators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T23:33:32Z",
+            "owner": "decaporg",
+            "repo": "decap-cms",
+            "stars": 19295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-markdown",
+          "description": "Render markdown as React components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-21T10:10:50Z",
+            "owner": "remarkjs",
+            "repo": "react-markdown",
+            "stars": 15848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "documentation.js",
+          "description": "Documentation system for modern JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-15T18:50:26Z",
+            "owner": "documentationjs",
+            "repo": "documentation",
+            "stars": 5800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mdsvex",
+          "description": "Markdown preprocessor for Svelte.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-25T08:22:54Z",
+            "owner": "pngwn",
+            "repo": "MDsveX",
+            "stars": 3044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bytemd",
+          "description": "Hackable markdown editor component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-12T07:00:03Z",
+            "owner": "pd4d10",
+            "repo": "bytemd",
+            "stars": 1361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eslint-plugin-markdown",
+          "description": "Lint JavaScript in markdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T06:21:50Z",
+            "owner": "eslint",
+            "repo": "markdown",
+            "stars": 576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "postcss-markdown",
+          "description": "Process CSS in markdown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-11-04T08:20:56Z",
+            "owner": "gucong3000",
+            "repo": "postcss-markdown",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Built on remark"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "freeCodeCamp",
+          "description": "Learn to code for free.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:37:19Z",
+            "owner": "freeCodeCamp",
+            "repo": "freeCodeCamp",
+            "stars": 453925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node.js",
+          "description": "Node.js JavaScript runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T07:29:18Z",
+            "owner": "nodejs",
+            "repo": "node",
+            "stars": 118913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "storybook",
+          "description": "Interactive UI component dev & test.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T07:38:01Z",
+            "owner": "storybookjs",
+            "repo": "storybook",
+            "stars": 90828
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rxjs",
+          "description": "Reactive Extensions For JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T23:15:21Z",
+            "owner": "ReactiveX",
+            "repo": "rxjs",
+            "stars": 31704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opensource.guide",
+          "description": "Community guides for open source creators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-05T04:13:41Z",
+            "owner": "github",
+            "repo": "opensource.guide",
+            "stars": 15620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebFundamentals",
+          "description": "Best practices for modern web development (by Google).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-08-10T14:38:07Z",
+            "owner": "google",
+            "repo": "WebFundamentals",
+            "stars": 13872
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stylelint",
+          "description": "Mighty, modern style linter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T11:21:45Z",
+            "owner": "stylelint",
+            "repo": "stylelint",
+            "stars": 11511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "regl",
+          "description": "Functional WebGL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-04T15:44:32Z",
+            "owner": "regl-project",
+            "repo": "regl",
+            "stars": 5567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cssnano",
+          "description": "Modular minifier built on top of PostCSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-13T07:30:41Z",
+            "owner": "cssnano",
+            "repo": "cssnano",
+            "stars": 4972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "debugger.html",
+          "description": "Firefox debugger (by Mozilla).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2023-01-11T19:07:25Z",
+            "owner": "firefox-devtools",
+            "repo": "debugger",
+            "stars": 4608
+          }
+        }
+      ],
+      "title": "Built with remark"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome markdown",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-21T03:06:19Z",
+            "owner": "BubuAnabelas",
+            "repo": "awesome-markdown",
+            "stars": 951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome mdx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-07T09:14:59Z",
+            "owner": "mdx-js",
+            "repo": "awesome",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome rehype",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-10T13:25:24Z",
+            "owner": "rehypejs",
+            "repo": "awesome-rehype",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome unified",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-03T13:10:06Z",
+            "owner": "unifiedjs",
+            "repo": "awesome-unified",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome retext",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-03T10:11:01Z",
+            "owner": "retextjs",
+            "repo": "awesome-retext",
+            "stars": 130
+          }
+        }
+      ],
+      "title": "Related lists"
+    },
+    {
+      "description": "© Titus Wormer",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:48:17.007Z",
+    "original_repository": "remarkjs/awesome-remark",
+    "original_repository_sha": "82427708991528ad21475151aea2311f2699d549",
+    "enhanced_repository": "enhansome/enhansome-remark",
+    "enhanced_repository_description": null,
+    "title": "awesome remark with stars"
+  }
+}
