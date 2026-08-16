@@ -160,7 +160,7 @@
             "last_commit": "2023-09-20T10:51:33Z",
             "owner": "remarkjs",
             "repo": "remark-toc",
-            "stars": 499
+            "stars": 498
           }
         },
         {
@@ -278,7 +278,7 @@
             "last_commit": "2026-08-15T00:01:50Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941
+            "stars": 55943
           }
         },
         {
@@ -289,10 +289,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T03:24:09Z",
+            "last_commit": "2026-08-15T10:56:25Z",
             "owner": "prettier",
             "repo": "prettier",
-            "stars": 52202
+            "stars": 52205
           }
         },
         {
@@ -331,7 +331,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T12:37:36Z",
+            "last_commit": "2026-08-16T00:18:32Z",
             "owner": "decaporg",
             "repo": "decap-cms",
             "stars": 19295
@@ -404,7 +404,7 @@
             "last_commit": "2026-08-13T16:15:55Z",
             "owner": "eslint",
             "repo": "markdown",
-            "stars": 576
+            "stars": 578
           }
         },
         {
@@ -435,10 +435,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:40:06Z",
+            "last_commit": "2026-08-16T02:34:07Z",
             "owner": "freeCodeCamp",
             "repo": "freeCodeCamp",
-            "stars": 454027
+            "stars": 454081
           }
         },
         {
@@ -449,10 +449,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T22:44:36Z",
+            "last_commit": "2026-08-16T00:24:20Z",
             "owner": "nodejs",
             "repo": "node",
-            "stars": 118916
+            "stars": 118945
           }
         },
         {
@@ -466,7 +466,7 @@
             "last_commit": "2026-08-14T20:44:33Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90855
+            "stars": 90858
           }
         },
         {
@@ -494,7 +494,7 @@
             "last_commit": "2026-08-13T18:13:49Z",
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15628
+            "stars": 15629
           }
         },
         {
@@ -508,7 +508,7 @@
             "last_commit": "2022-08-10T14:38:07Z",
             "owner": "google",
             "repo": "WebFundamentals",
-            "stars": 13873
+            "stars": 13874
           }
         },
         {
@@ -519,7 +519,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T02:35:29Z",
+            "last_commit": "2026-08-16T02:49:40Z",
             "owner": "stylelint",
             "repo": "stylelint",
             "stars": 11514
@@ -536,7 +536,7 @@
             "last_commit": "2026-08-04T15:44:32Z",
             "owner": "regl-project",
             "repo": "regl",
-            "stars": 5568
+            "stars": 5569
           }
         },
         {
@@ -547,7 +547,7 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-08-14T23:47:09Z",
+            "last_commit": "2026-08-16T01:59:04Z",
             "owner": "cssnano",
             "repo": "cssnano",
             "stars": 4972
@@ -640,7 +640,7 @@
             "last_commit": "2024-10-03T10:11:01Z",
             "owner": "retextjs",
             "repo": "awesome-retext",
-            "stars": 130
+            "stars": 131
           }
         }
       ],
@@ -653,7 +653,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T06:54:44.989Z",
+    "last_updated": "2026-08-16T06:56:26.109Z",
     "original_repository": "remarkjs/awesome-remark",
     "original_repository_sha": "82427708991528ad21475151aea2311f2699d549",
     "enhanced_repository": "enhansome/enhansome-remark",
