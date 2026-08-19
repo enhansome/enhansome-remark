@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22355214,
             "language": "JavaScript",
             "last_commit": "2026-07-01T11:01:38Z",
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 8979
+            "stars": 8980
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22355214,
             "language": "JavaScript",
             "last_commit": "2026-07-01T11:01:38Z",
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 8979
+            "stars": 8980
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22355214,
             "language": "JavaScript",
             "last_commit": "2026-07-01T11:01:38Z",
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 8979
+            "stars": 8980
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22355214,
             "language": "JavaScript",
             "last_commit": "2026-07-01T11:01:38Z",
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 8979
+            "stars": 8980
           }
         },
         {
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39996248,
             "language": "JavaScript",
             "last_commit": "2026-04-29T11:25:24Z",
             "owner": "unifiedjs",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48559092,
             "language": null,
             "last_commit": "2026-02-04T18:45:51Z",
             "owner": "syntax-tree",
@@ -91,7 +97,7 @@
       "title": "Official"
     },
     {
-      "description": "",
+      "description": "Find more plugins »",
       "items": [
         {
           "node_type": "item",
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115229134,
             "language": "JavaScript",
             "last_commit": "2026-08-14T02:14:27Z",
             "owner": "mdx-js",
             "repo": "mdx",
-            "stars": 19742
+            "stars": 19744
           }
         },
         {
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301091528,
             "language": "JavaScript",
             "last_commit": "2025-02-10T12:43:08Z",
             "owner": "remarkjs",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35120039,
             "language": "JavaScript",
             "last_commit": "2026-01-05T19:25:40Z",
             "owner": "remarkjs",
@@ -142,11 +151,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81942023,
             "language": "JavaScript",
             "last_commit": "2025-02-20T11:40:20Z",
             "owner": "remarkjs",
             "repo": "remark-math",
-            "stars": 516
+            "stars": 515
           }
         },
         {
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30319127,
             "language": "JavaScript",
             "last_commit": "2023-09-20T10:51:33Z",
             "owner": "remarkjs",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61486777,
             "language": "JavaScript",
             "last_commit": "2025-04-02T13:46:56Z",
             "owner": "remarkjs",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97874809,
             "language": "JavaScript",
             "last_commit": "2023-10-02T15:30:07Z",
             "owner": "remarkjs",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32321475,
             "language": "JavaScript",
             "last_commit": "2024-08-17T13:33:28Z",
             "owner": "remarkjs",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37619711,
             "language": "JavaScript",
             "last_commit": "2023-09-22T09:20:38Z",
             "owner": "remarkjs",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49385978,
             "language": "JavaScript",
             "last_commit": "2025-04-02T12:38:33Z",
             "owner": "remarkjs",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48794306,
             "language": "JavaScript",
             "last_commit": "2023-09-23T12:48:20Z",
             "owner": "remarkjs",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135895427,
             "language": "JavaScript",
             "last_commit": "2024-09-23T12:38:48Z",
             "owner": "remarkjs",
@@ -265,7 +283,7 @@
       "title": "Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -274,11 +292,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T00:01:50Z",
+            "last_commit": "2026-08-19T11:32:21Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55943
+            "stars": 55944
           }
         },
         {
@@ -288,11 +307,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75104123,
             "language": "JavaScript",
             "last_commit": "2026-08-18T23:28:47Z",
             "owner": "prettier",
             "repo": "prettier",
-            "stars": 52204
+            "stars": 52205
           }
         },
         {
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 125596489,
             "language": "TypeScript",
             "last_commit": "2025-11-21T04:28:57Z",
             "owner": "pedronauck",
@@ -316,11 +337,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115229134,
             "language": "JavaScript",
             "last_commit": "2026-08-14T02:14:27Z",
             "owner": "mdx-js",
             "repo": "mdx",
-            "stars": 19742
+            "stars": 19744
           }
         },
         {
@@ -330,11 +352,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29514104,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T06:59:57Z",
+            "last_commit": "2026-08-19T07:14:24Z",
             "owner": "decaporg",
             "repo": "decap-cms",
-            "stars": 19302
+            "stars": 19303
           }
         },
         {
@@ -344,11 +367,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35848897,
             "language": "JavaScript",
             "last_commit": "2025-04-21T10:10:50Z",
             "owner": "remarkjs",
             "repo": "react-markdown",
-            "stars": 15856
+            "stars": 15857
           }
         },
         {
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31936600,
             "language": "JavaScript",
             "last_commit": "2025-04-15T18:50:26Z",
             "owner": "documentationjs",
@@ -372,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164914161,
             "language": "JavaScript",
             "last_commit": "2026-07-25T08:22:54Z",
             "owner": "pngwn",
@@ -386,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 700488287,
             "language": "TypeScript",
             "last_commit": "2025-02-12T07:00:03Z",
             "owner": "pd4d10",
@@ -400,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38386462,
             "language": "JavaScript",
             "last_commit": "2026-08-17T12:03:04Z",
             "owner": "eslint",
@@ -414,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128776873,
             "language": "JavaScript",
             "last_commit": "2020-11-04T08:20:56Z",
             "owner": "gucong3000",
@@ -425,7 +454,7 @@
       "title": "Built on remark"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -434,11 +463,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28457823,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T21:03:08Z",
+            "last_commit": "2026-08-19T10:40:53Z",
             "owner": "freeCodeCamp",
             "repo": "freeCodeCamp",
-            "stars": 454301
+            "stars": 454321
           }
         },
         {
@@ -448,8 +478,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27193779,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T06:42:47Z",
+            "last_commit": "2026-08-19T09:34:03Z",
             "owner": "nodejs",
             "repo": "node",
             "stars": 119017
@@ -462,11 +493,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54173593,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T07:00:56Z",
+            "last_commit": "2026-08-19T12:44:35Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90873
+            "stars": 90875
           }
         },
         {
@@ -476,11 +508,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32247847,
             "language": "TypeScript",
             "last_commit": "2026-08-08T23:15:21Z",
             "owner": "ReactiveX",
             "repo": "rxjs",
-            "stars": 31699
+            "stars": 31698
           }
         },
         {
@@ -490,11 +523,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61204818,
             "language": "HTML",
             "last_commit": "2026-08-13T18:13:49Z",
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15638
+            "stars": 15639
           }
         },
         {
@@ -504,11 +538,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 19249835,
             "language": "JavaScript",
             "last_commit": "2022-08-10T14:38:07Z",
             "owner": "google",
             "repo": "WebFundamentals",
-            "stars": 13870
+            "stars": 13871
           }
         },
         {
@@ -518,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27549019,
             "language": "JavaScript",
             "last_commit": "2026-08-19T02:20:56Z",
             "owner": "stylelint",
@@ -532,6 +568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52315611,
             "language": "JavaScript",
             "last_commit": "2026-08-04T15:44:32Z",
             "owner": "regl-project",
@@ -546,8 +583,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33943153,
             "language": "CSS",
-            "last_commit": "2026-08-18T20:46:28Z",
+            "last_commit": "2026-08-19T11:46:09Z",
             "owner": "cssnano",
             "repo": "cssnano",
             "stars": 4972
@@ -560,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 54585418,
             "language": null,
             "last_commit": "2023-01-11T19:07:25Z",
             "owner": "firefox-devtools",
@@ -571,7 +610,7 @@
       "title": "Built with remark"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -580,6 +619,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64252931,
             "language": null,
             "last_commit": "2024-08-21T03:06:19Z",
             "owner": "BubuAnabelas",
@@ -594,6 +634,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143893040,
             "language": null,
             "last_commit": "2024-10-07T09:14:59Z",
             "owner": "mdx-js",
@@ -608,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156001375,
             "language": null,
             "last_commit": "2024-10-10T13:25:24Z",
             "owner": "rehypejs",
@@ -622,6 +664,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156001590,
             "language": null,
             "last_commit": "2024-10-03T13:10:06Z",
             "owner": "unifiedjs",
@@ -636,6 +679,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156001493,
             "language": null,
             "last_commit": "2024-10-03T10:11:01Z",
             "owner": "retextjs",
@@ -645,16 +689,12 @@
         }
       ],
       "title": "Related lists"
-    },
-    {
-      "description": "© Titus Wormer",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:01:26.874Z",
+    "last_updated": "2026-08-19T12:49:21.066Z",
     "original_repository": "remarkjs/awesome-remark",
+    "original_repository_id": 156001210,
     "original_repository_sha": "82427708991528ad21475151aea2311f2699d549",
     "enhanced_repository": "enhansome/enhansome-remark",
     "enhanced_repository_description": null,
