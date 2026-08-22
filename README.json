@@ -108,10 +108,10 @@
             "archived": false,
             "id": 115229134,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T19:09:31Z",
+            "last_commit": "2026-08-21T11:33:49Z",
             "owner": "mdx-js",
             "repo": "mdx",
-            "stars": 19750
+            "stars": 19748
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2023-09-20T10:51:33Z",
             "owner": "remarkjs",
             "repo": "remark-toc",
-            "stars": 498
+            "stars": 499
           }
         },
         {
@@ -294,10 +294,10 @@
             "archived": false,
             "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T20:50:14Z",
+            "last_commit": "2026-08-21T19:12:38Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941
+            "stars": 55940
           }
         },
         {
@@ -309,10 +309,10 @@
             "archived": false,
             "id": 75104123,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T13:03:37Z",
+            "last_commit": "2026-08-21T22:11:09Z",
             "owner": "prettier",
             "repo": "prettier",
-            "stars": 52206
+            "stars": 52208
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2025-11-21T04:28:57Z",
             "owner": "pedronauck",
             "repo": "docz",
-            "stars": 23584
+            "stars": 23583
           }
         },
         {
@@ -339,10 +339,10 @@
             "archived": false,
             "id": 115229134,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T19:09:31Z",
+            "last_commit": "2026-08-21T11:33:49Z",
             "owner": "mdx-js",
             "repo": "mdx",
-            "stars": 19750
+            "stars": 19748
           }
         },
         {
@@ -354,10 +354,10 @@
             "archived": false,
             "id": 29514104,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T07:14:24Z",
+            "last_commit": "2026-08-21T14:26:23Z",
             "owner": "decaporg",
             "repo": "decap-cms",
-            "stars": 19304
+            "stars": 19307
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2025-04-21T10:10:50Z",
             "owner": "remarkjs",
             "repo": "react-markdown",
-            "stars": 15858
+            "stars": 15860
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-07-25T08:22:54Z",
             "owner": "pngwn",
             "repo": "MDsveX",
-            "stars": 3048
+            "stars": 3049
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2025-02-12T07:00:03Z",
             "owner": "pd4d10",
             "repo": "bytemd",
-            "stars": 1363
+            "stars": 1364
           }
         },
         {
@@ -429,7 +429,7 @@
             "archived": false,
             "id": 38386462,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T20:52:24Z",
+            "last_commit": "2026-08-21T16:29:35Z",
             "owner": "eslint",
             "repo": "markdown",
             "stars": 577
@@ -465,10 +465,10 @@
             "archived": false,
             "id": 28457823,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T06:20:41Z",
+            "last_commit": "2026-08-22T04:25:58Z",
             "owner": "freeCodeCamp",
             "repo": "freeCodeCamp",
-            "stars": 454391
+            "stars": 454426
           }
         },
         {
@@ -480,10 +480,10 @@
             "archived": false,
             "id": 27193779,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T05:53:42Z",
+            "last_commit": "2026-08-22T05:07:59Z",
             "owner": "nodejs",
             "repo": "node",
-            "stars": 119143
+            "stars": 119145
           }
         },
         {
@@ -495,10 +495,10 @@
             "archived": false,
             "id": 54173593,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T20:40:22Z",
+            "last_commit": "2026-08-22T06:29:19Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90887
+            "stars": 90893
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-08-08T23:15:21Z",
             "owner": "ReactiveX",
             "repo": "rxjs",
-            "stars": 31697
+            "stars": 31698
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2026-08-13T18:13:49Z",
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15639
+            "stars": 15642
           }
         },
         {
@@ -555,10 +555,10 @@
             "archived": false,
             "id": 27549019,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T05:58:16Z",
+            "last_commit": "2026-08-21T15:49:54Z",
             "owner": "stylelint",
             "repo": "stylelint",
-            "stars": 11513
+            "stars": 11512
           }
         },
         {
@@ -573,7 +573,7 @@
             "last_commit": "2026-08-04T15:44:32Z",
             "owner": "regl-project",
             "repo": "regl",
-            "stars": 5571
+            "stars": 5574
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2026-08-20T21:17:04Z",
             "owner": "cssnano",
             "repo": "cssnano",
-            "stars": 4972
+            "stars": 4973
           }
         },
         {
@@ -692,7 +692,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:03:53.705Z",
+    "last_updated": "2026-08-22T06:55:59.111Z",
     "original_repository": "remarkjs/awesome-remark",
     "original_repository_id": 156001210,
     "original_repository_sha": "82427708991528ad21475151aea2311f2699d549",
