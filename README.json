@@ -97,7 +97,7 @@
       "title": "Official"
     },
     {
-      "description": "Find more plugins »",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -278,6 +278,21 @@
             "repo": "remark-git-contributors",
             "stars": 16
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Find more plugins »",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22355214,
+            "language": "JavaScript",
+            "last_commit": "2026-07-01T11:01:38Z",
+            "owner": "remarkjs",
+            "repo": "remark",
+            "stars": 8982
+          }
         }
       ],
       "title": "Plugins"
@@ -297,7 +312,7 @@
             "last_commit": "2026-08-21T19:12:38Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55939
+            "stars": 55941
           }
         },
         {
@@ -309,7 +324,7 @@
             "archived": false,
             "id": 75104123,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T17:04:31Z",
+            "last_commit": "2026-08-24T13:46:55Z",
             "owner": "prettier",
             "repo": "prettier",
             "stars": 52213
@@ -372,7 +387,7 @@
             "last_commit": "2025-04-21T10:10:50Z",
             "owner": "remarkjs",
             "repo": "react-markdown",
-            "stars": 15861
+            "stars": 15862
           }
         },
         {
@@ -465,10 +480,10 @@
             "archived": false,
             "id": 28457823,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T08:58:17Z",
+            "last_commit": "2026-08-24T14:06:52Z",
             "owner": "freeCodeCamp",
             "repo": "freeCodeCamp",
-            "stars": 454506
+            "stars": 454520
           }
         },
         {
@@ -480,10 +495,10 @@
             "archived": false,
             "id": 27193779,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T04:26:05Z",
+            "last_commit": "2026-08-24T12:43:37Z",
             "owner": "nodejs",
             "repo": "node",
-            "stars": 119327
+            "stars": 119339
           }
         },
         {
@@ -495,10 +510,10 @@
             "archived": false,
             "id": 54173593,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:04:42Z",
+            "last_commit": "2026-08-24T14:23:36Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90912
+            "stars": 90916
           }
         },
         {
@@ -528,7 +543,7 @@
             "last_commit": "2026-08-13T18:13:49Z",
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15644
+            "stars": 15645
           }
         },
         {
@@ -585,7 +600,7 @@
             "archived": false,
             "id": 33943153,
             "language": "CSS",
-            "last_commit": "2026-08-22T10:37:14Z",
+            "last_commit": "2026-08-24T11:05:27Z",
             "owner": "cssnano",
             "repo": "cssnano",
             "stars": 4973
@@ -692,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:16:19.158Z",
+    "last_updated": "2026-08-24T14:25:19.364Z",
     "original_repository": "remarkjs/awesome-remark",
     "original_repository_id": 156001210,
     "original_repository_sha": "82427708991528ad21475151aea2311f2699d549",
