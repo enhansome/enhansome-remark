@@ -483,7 +483,7 @@
             "last_commit": "2026-08-25T05:52:19Z",
             "owner": "freeCodeCamp",
             "repo": "freeCodeCamp",
-            "stars": 454558
+            "stars": 454562
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-08-25T02:52:18Z",
             "owner": "nodejs",
             "repo": "node",
-            "stars": 119547
+            "stars": 119549
           }
         },
         {
@@ -510,7 +510,7 @@
             "archived": false,
             "id": 54173593,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T20:45:42Z",
+            "last_commit": "2026-08-25T07:03:46Z",
             "owner": "storybookjs",
             "repo": "storybook",
             "stars": 90928
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:14:34.161Z",
+    "last_updated": "2026-08-25T07:04:28.273Z",
     "original_repository": "remarkjs/awesome-remark",
     "original_repository_id": 156001210,
     "original_repository_sha": "82427708991528ad21475151aea2311f2699d549",

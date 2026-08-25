@@ -76,9 +76,9 @@ It’s all part of the [unified][] collective.
 
 ## Built with remark
 
-* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 454,558 | 🐛 264 | 🌐 TypeScript | 📅 2026-08-25 - Learn to code for free.
-* [Node.js](https://github.com/nodejs/node) ⭐ 119,547 | 🐛 1,380 | 🌐 JavaScript | 📅 2026-08-25 - Node.js JavaScript runtime.
-* [storybook](https://github.com/storybooks/storybook) ⭐ 90,928 | 🐛 1,791 | 🌐 TypeScript | 📅 2026-08-24 - Interactive UI component dev & test.
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 454,562 | 🐛 264 | 🌐 TypeScript | 📅 2026-08-25 - Learn to code for free.
+* [Node.js](https://github.com/nodejs/node) ⭐ 119,549 | 🐛 1,381 | 🌐 JavaScript | 📅 2026-08-25 - Node.js JavaScript runtime.
+* [storybook](https://github.com/storybooks/storybook) ⭐ 90,928 | 🐛 1,791 | 🌐 TypeScript | 📅 2026-08-25 - Interactive UI component dev & test.
 * [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,703 | 🐛 180 | 🌐 TypeScript | 📅 2026-08-08 - Reactive Extensions For JavaScript.
 * [opensource.guide](https://github.com/github/opensource.guide) ⭐ 15,644 | 🐛 4 | 🌐 HTML | 📅 2026-08-13 - Community guides for open source creators.
 * [WebFundamentals](https://github.com/google/WebFundamentals) ⚠️ Archived - Best practices for modern web development (by [Google](https://opensource.google.com)).
