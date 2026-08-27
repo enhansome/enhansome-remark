@@ -61,29 +61,29 @@ It’s all part of the [unified][] collective.
 
 ## Built on remark
 
-* [gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,942 | 🐛 437 | 🌐 JavaScript | 📅 2026-08-27 - Blazing fast, modern apps and websites with React.
-* [prettier](https://github.com/prettier/prettier) ⭐ 52,213 | 🐛 1,412 | 🌐 JavaScript | 📅 2026-08-26 - Opinionated code formatter.
+* [gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,941 | 🐛 437 | 🌐 JavaScript | 📅 2026-08-27 - Blazing fast, modern apps and websites with React.
+* [prettier](https://github.com/prettier/prettier) ⭐ 52,214 | 🐛 1,412 | 🌐 JavaScript | 📅 2026-08-26 - Opinionated code formatter.
 * [docz](https://github.com/doczjs/docz) ⚠️ Archived - Document your design system.
 * [mdx](https://github.com/mdx-js/mdx) ⭐ 19,752 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-25 - Markdown combined with JSX.
-* [netlify-cms](https://github.com/netlify/netlify-cms) ⭐ 19,318 | 🐛 590 | 🌐 JavaScript | 📅 2026-08-27 - CMS for static site generators.
-* [react-markdown](https://github.com/remarkjs/react-markdown) ⭐ 15,863 | 🐛 5 | 🌐 JavaScript | 📅 2025-04-21 - Render markdown as React components.
+* [netlify-cms](https://github.com/netlify/netlify-cms) ⭐ 19,319 | 🐛 590 | 🌐 JavaScript | 📅 2026-08-27 - CMS for static site generators.
+* [react-markdown](https://github.com/remarkjs/react-markdown) ⭐ 15,865 | 🐛 6 | 🌐 JavaScript | 📅 2025-04-21 - Render markdown as React components.
 * [documentation.js](https://github.com/documentationjs/documentation) ⭐ 5,799 | 🐛 204 | 🌐 JavaScript | 📅 2025-04-15 - Documentation system for modern JavaScript.
 * [mdsvex](https://github.com/pngwn/MDsveX) ⭐ 3,047 | 🐛 174 | 🌐 JavaScript | 📅 2026-07-25 - Markdown preprocessor for Svelte.
 * [bytemd](https://github.com/bytedance/bytemd) ⭐ 1,366 | 🐛 51 | 🌐 TypeScript | 📅 2025-02-12 - Hackable markdown editor component.
-* [eslint-plugin-markdown](https://github.com/eslint/eslint-plugin-markdown) ⭐ 579 | 🐛 23 | 🌐 JavaScript | 📅 2026-08-25 - Lint JavaScript in markdown.
+* [eslint-plugin-markdown](https://github.com/eslint/eslint-plugin-markdown) ⭐ 579 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-27 - Lint JavaScript in markdown.
 * [postcss-markdown](https://github.com/gucong3000/postcss-markdown) ⭐ 20 | 🐛 3 | 🌐 JavaScript | 📅 2020-11-04 - Process CSS in markdown.
 * [Astro](https://astro.build) - Build faster websites with Astro’s next-gen island architecture.
 
 ## Built with remark
 
-* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 454,672 | 🐛 247 | 🌐 TypeScript | 📅 2026-08-27 - Learn to code for free.
-* [Node.js](https://github.com/nodejs/node) ⭐ 119,640 | 🐛 1,224 | 🌐 JavaScript | 📅 2026-08-27 - Node.js JavaScript runtime.
-* [storybook](https://github.com/storybooks/storybook) ⭐ 90,948 | 🐛 1,773 | 🌐 TypeScript | 📅 2026-08-27 - Interactive UI component dev & test.
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 454,687 | 🐛 237 | 🌐 TypeScript | 📅 2026-08-27 - Learn to code for free.
+* [Node.js](https://github.com/nodejs/node) ⭐ 119,645 | 🐛 1,235 | 🌐 JavaScript | 📅 2026-08-27 - Node.js JavaScript runtime.
+* [storybook](https://github.com/storybooks/storybook) ⭐ 90,949 | 🐛 1,774 | 🌐 TypeScript | 📅 2026-08-27 - Interactive UI component dev & test.
 * [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,703 | 🐛 180 | 🌐 TypeScript | 📅 2026-08-08 - Reactive Extensions For JavaScript.
-* [opensource.guide](https://github.com/github/opensource.guide) ⭐ 15,649 | 🐛 7 | 🌐 HTML | 📅 2026-08-13 - Community guides for open source creators.
+* [opensource.guide](https://github.com/github/opensource.guide) ⭐ 15,649 | 🐛 6 | 🌐 HTML | 📅 2026-08-13 - Community guides for open source creators.
 * [WebFundamentals](https://github.com/google/WebFundamentals) ⚠️ Archived - Best practices for modern web development (by [Google](https://opensource.google.com)).
 * [stylelint](https://github.com/stylelint/stylelint) ⭐ 11,513 | 🐛 131 | 🌐 JavaScript | 📅 2026-08-27 - Mighty, modern style linter.
-* [regl](https://github.com/regl-project/regl) ⭐ 5,575 | 🐛 126 | 🌐 JavaScript | 📅 2026-08-04 - Functional WebGL.
+* [regl](https://github.com/regl-project/regl) ⭐ 5,576 | 🐛 126 | 🌐 JavaScript | 📅 2026-08-04 - Functional WebGL.
 * [cssnano](https://github.com/cssnano/cssnano) ⭐ 4,976 | 🐛 56 | 🌐 CSS | 📅 2026-08-26 - Modular minifier built on top of PostCSS.
 * [debugger.html](https://github.com/devtools-html/debugger.html) ⚠️ Archived - Firefox debugger (by [Mozilla](https://www.mozilla.org)).
 * [AST explorer](https://astexplorer.net) - Visualization of abstract syntax trees.
