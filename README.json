@@ -16,7 +16,8 @@
             "owner": "remarkjs",
             "repo": "remark",
             "stars": 8987
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "remarkjs",
             "repo": "remark",
             "stars": 8987
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "remarkjs",
             "repo": "remark",
             "stars": 8987
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "remarkjs",
             "repo": "remark",
             "stars": 8987
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-04-29T11:25:24Z",
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5023
-          }
+            "stars": 5024
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "syntax-tree",
             "repo": "mdast",
             "stars": 1470
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         }
       ],
       "title": "Official"
@@ -111,8 +117,9 @@
             "last_commit": "2026-08-25T20:42:13Z",
             "owner": "mdx-js",
             "repo": "mdx",
-            "stars": 19752
-          }
+            "stars": 19758
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -126,8 +133,9 @@
             "last_commit": "2025-02-10T12:43:08Z",
             "owner": "remarkjs",
             "repo": "remark-gfm",
-            "stars": 1240
-          }
+            "stars": 1243
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "remarkjs",
             "repo": "remark-lint",
             "stars": 1042
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "remarkjs",
             "repo": "remark-math",
             "stars": 514
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "remarkjs",
             "repo": "remark-toc",
             "stars": 499
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "remarkjs",
             "repo": "remark-rehype",
             "stars": 361
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "remarkjs",
             "repo": "remark-frontmatter",
             "stars": 323
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "remarkjs",
             "repo": "remark-github",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "remarkjs",
             "repo": "remark-man",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "remarkjs",
             "repo": "remark-retext",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "remarkjs",
             "repo": "remark-license",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "remarkjs",
             "repo": "remark-git-contributors",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "remarkjs",
             "repo": "remark",
             "stars": 8987
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         }
       ],
       "title": "Plugins"
@@ -309,11 +328,12 @@
             "archived": false,
             "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T16:59:39Z",
+            "last_commit": "2026-08-28T03:41:15Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
             "stars": 55941
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -324,11 +344,12 @@
             "archived": false,
             "id": 75104123,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T10:34:00Z",
+            "last_commit": "2026-08-28T06:53:03Z",
             "owner": "prettier",
             "repo": "prettier",
-            "stars": 52214
-          }
+            "stars": 52216
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "pedronauck",
             "repo": "docz",
             "stars": 23581
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -357,8 +379,9 @@
             "last_commit": "2026-08-25T20:42:13Z",
             "owner": "mdx-js",
             "repo": "mdx",
-            "stars": 19752
-          }
+            "stars": 19758
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -369,11 +392,12 @@
             "archived": false,
             "id": 29514104,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:41:45Z",
+            "last_commit": "2026-08-28T14:41:03Z",
             "owner": "decaporg",
             "repo": "decap-cms",
-            "stars": 19319
-          }
+            "stars": 19321
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -387,8 +411,9 @@
             "last_commit": "2025-04-21T10:10:50Z",
             "owner": "remarkjs",
             "repo": "react-markdown",
-            "stars": 15865
-          }
+            "stars": 15867
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "documentationjs",
             "repo": "documentation",
             "stars": 5799
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -417,8 +443,9 @@
             "last_commit": "2026-07-25T08:22:54Z",
             "owner": "pngwn",
             "repo": "MDsveX",
-            "stars": 3047
-          }
+            "stars": 3048
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "pd4d10",
             "repo": "bytemd",
             "stars": 1366
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -444,11 +472,12 @@
             "archived": false,
             "id": 38386462,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T14:48:06Z",
+            "last_commit": "2026-08-28T12:08:18Z",
             "owner": "eslint",
             "repo": "markdown",
             "stars": 579
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "gucong3000",
             "repo": "postcss-markdown",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         }
       ],
       "title": "Built on remark"
@@ -480,11 +510,12 @@
             "archived": false,
             "id": 28457823,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:33:53Z",
+            "last_commit": "2026-08-28T16:44:08Z",
             "owner": "freeCodeCamp",
             "repo": "freeCodeCamp",
-            "stars": 454687
-          }
+            "stars": 454741
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -495,11 +526,12 @@
             "archived": false,
             "id": 27193779,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T14:10:47Z",
+            "last_commit": "2026-08-28T18:33:10Z",
             "owner": "nodejs",
             "repo": "node",
-            "stars": 119645
-          }
+            "stars": 119655
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -510,11 +542,12 @@
             "archived": false,
             "id": 54173593,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:50:03Z",
+            "last_commit": "2026-08-28T13:37:31Z",
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90949
-          }
+            "stars": 90956
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -529,7 +562,8 @@
             "owner": "ReactiveX",
             "repo": "rxjs",
             "stars": 31703
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -543,8 +577,9 @@
             "last_commit": "2026-08-13T18:13:49Z",
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15649
-          }
+            "stars": 15650
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -558,8 +593,9 @@
             "last_commit": "2022-08-10T14:38:07Z",
             "owner": "google",
             "repo": "WebFundamentals",
-            "stars": 13872
-          }
+            "stars": 13871
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -573,8 +609,9 @@
             "last_commit": "2026-08-27T13:43:14Z",
             "owner": "stylelint",
             "repo": "stylelint",
-            "stars": 11513
-          }
+            "stars": 11517
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -588,8 +625,9 @@
             "last_commit": "2026-08-04T15:44:32Z",
             "owner": "regl-project",
             "repo": "regl",
-            "stars": 5576
-          }
+            "stars": 5577
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -600,11 +638,12 @@
             "archived": false,
             "id": 33943153,
             "language": "CSS",
-            "last_commit": "2026-08-26T20:55:36Z",
+            "last_commit": "2026-08-28T15:05:18Z",
             "owner": "cssnano",
             "repo": "cssnano",
             "stars": 4976
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -619,7 +658,8 @@
             "owner": "firefox-devtools",
             "repo": "debugger",
             "stars": 4608
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         }
       ],
       "title": "Built with remark"
@@ -640,7 +680,8 @@
             "owner": "BubuAnabelas",
             "repo": "awesome-markdown",
             "stars": 955
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -655,7 +696,8 @@
             "owner": "mdx-js",
             "repo": "awesome",
             "stars": 334
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -670,7 +712,8 @@
             "owner": "rehypejs",
             "repo": "awesome-rehype",
             "stars": 239
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -685,7 +728,8 @@
             "owner": "unifiedjs",
             "repo": "awesome-unified",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         },
         {
           "node_type": "item",
@@ -700,14 +744,15 @@
             "owner": "retextjs",
             "repo": "awesome-retext",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T18:36:06.416Z"
         }
       ],
       "title": "Related lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:35:27.433Z",
+    "last_updated": "2026-08-28T18:36:06.416Z",
     "original_repository_info": {
       "archived": false,
       "id": 156001210,
@@ -715,7 +760,7 @@
       "last_commit": "2024-10-03T09:29:49Z",
       "owner": "remarkjs",
       "repo": "awesome-remark",
-      "stars": 493
+      "stars": 494
     },
     "original_repository_sha": "82427708991528ad21475151aea2311f2699d549",
     "enhanced_repository": "enhansome/enhansome-remark",
