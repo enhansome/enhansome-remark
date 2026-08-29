@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "markdown processor powered by plugins part of the @unifiedjs collective",
+            "homepage": "https://remark.js.org",
             "id": 22355214,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-01T11:01:38Z",
+            "open_issues": 12,
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 8987
+            "stars": 8987,
+            "topics": [
+              "ast",
+              "commonmark",
+              "javascript",
+              "markdown",
+              "remark",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -26,12 +38,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "markdown processor powered by plugins part of the @unifiedjs collective",
+            "homepage": "https://remark.js.org",
             "id": 22355214,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-01T11:01:38Z",
+            "open_issues": 12,
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 8987
+            "stars": 8987,
+            "topics": [
+              "ast",
+              "commonmark",
+              "javascript",
+              "markdown",
+              "remark",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -42,12 +66,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "markdown processor powered by plugins part of the @unifiedjs collective",
+            "homepage": "https://remark.js.org",
             "id": 22355214,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-01T11:01:38Z",
+            "open_issues": 12,
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 8987
+            "stars": 8987,
+            "topics": [
+              "ast",
+              "commonmark",
+              "javascript",
+              "markdown",
+              "remark",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -58,12 +94,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "markdown processor powered by plugins part of the @unifiedjs collective",
+            "homepage": "https://remark.js.org",
             "id": 22355214,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-01T11:01:38Z",
+            "open_issues": 12,
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 8987
+            "stars": 8987,
+            "topics": [
+              "ast",
+              "commonmark",
+              "javascript",
+              "markdown",
+              "remark",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -74,12 +122,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parse, inspect, transform, and serialize content with syntax trees",
+            "homepage": "https://unifiedjs.com",
             "id": 39996248,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-29T11:25:24Z",
+            "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5024
+            "stars": 5024,
+            "topics": [
+              "ast",
+              "cst",
+              "javascript",
+              "plugins",
+              "processor",
+              "syntax-tree",
+              "unist",
+              "vfile"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -90,12 +152,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown Abstract Syntax Tree format",
+            "homepage": "https://unifiedjs.com",
             "id": 48559092,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-04T18:45:51Z",
+            "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "mdast",
-            "stars": 1470
+            "stars": 1471,
+            "topics": [
+              "ast",
+              "markdown",
+              "syntax-tree",
+              "unist"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         }
@@ -112,12 +184,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown for the component era",
+            "homepage": "https://mdxjs.com",
             "id": 115229134,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T20:42:13Z",
+            "open_issues": 20,
             "owner": "mdx-js",
             "repo": "mdx",
-            "stars": 19758
+            "stars": 19758,
+            "topics": [
+              "jsx",
+              "markdown",
+              "mdx",
+              "react",
+              "remark",
+              "unified",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -128,12 +213,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "remark plugin to support GFM (autolink literals, footnotes, strikethrough, tables, tasklists)",
+            "homepage": "https://remark.js.org",
             "id": 301091528,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-10T12:43:08Z",
+            "open_issues": 2,
             "owner": "remarkjs",
             "repo": "remark-gfm",
-            "stars": 1243
+            "stars": 1244,
+            "topics": [
+              "autolink",
+              "gfm",
+              "github",
+              "remark",
+              "remark-plugin",
+              "strikethrough",
+              "table",
+              "tasklist"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -144,12 +243,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugins to check (lint) markdown code style",
+            "homepage": "https://remark.js.org",
             "id": 35120039,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-05T19:25:40Z",
+            "open_issues": 9,
             "owner": "remarkjs",
             "repo": "remark-lint",
-            "stars": 1042
+            "stars": 1042,
+            "topics": [
+              "check",
+              "lint",
+              "markdown",
+              "remark",
+              "remark-lint",
+              "remark-plugin",
+              "style",
+              "style-linter"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -160,12 +273,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "remark and rehype plugins to support math",
+            "homepage": "https://remark.js.org",
             "id": 81942023,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-20T11:40:20Z",
+            "open_issues": 4,
             "owner": "remarkjs",
             "repo": "remark-math",
-            "stars": 514
+            "stars": 514,
+            "topics": [
+              "html",
+              "katex",
+              "latex",
+              "markdown",
+              "math",
+              "rehype",
+              "rehype-plugin",
+              "remark",
+              "remark-plugin",
+              "tex"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -176,12 +305,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugin to generate a table of contents (TOC)",
+            "homepage": "https://remark.js.org",
             "id": 30319127,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-20T10:51:33Z",
+            "open_issues": 0,
             "owner": "remarkjs",
             "repo": "remark-toc",
-            "stars": 499
+            "stars": 499,
+            "topics": [
+              "markdown",
+              "remark",
+              "remark-plugin",
+              "table-of-contents",
+              "toc"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -192,12 +332,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugin that turns markdown into HTML to support rehype",
+            "homepage": "https://remark.js.org",
             "id": 61486777,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-02T13:46:56Z",
+            "open_issues": 0,
             "owner": "remarkjs",
             "repo": "remark-rehype",
-            "stars": 361
+            "stars": 361,
+            "topics": [
+              "hast",
+              "html",
+              "markdown",
+              "mdast",
+              "rehype",
+              "remark"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -208,12 +360,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "remark plugin to support frontmatter (YAML, TOML, and more)",
+            "homepage": "https://remark.js.org",
             "id": 97874809,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-02T15:30:07Z",
+            "open_issues": 0,
             "owner": "remarkjs",
             "repo": "remark-frontmatter",
-            "stars": 323
+            "stars": 323,
+            "topics": [
+              "frontmatter",
+              "markdown",
+              "remark",
+              "remark-plugin",
+              "toml",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -224,12 +388,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "remark plugin to link references to commits, issues, pull-requests, and users, like on GitHub",
+            "homepage": "https://remark.js.org",
             "id": 32321475,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-17T13:33:28Z",
+            "open_issues": 1,
             "owner": "remarkjs",
             "repo": "remark-github",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "gfm",
+              "github",
+              "markdown",
+              "remark",
+              "remark-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -240,12 +415,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugin to compile markdown to man pages",
+            "homepage": "https://remark.js.org",
             "id": 37619711,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-22T09:20:38Z",
+            "open_issues": 0,
             "owner": "remarkjs",
             "repo": "remark-man",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "groff",
+              "man",
+              "markdown",
+              "remark",
+              "remark-plugin",
+              "roff"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -256,12 +443,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugin to transform from remark (markdown) to retext (natural language)",
+            "homepage": "https://remark.js.org",
             "id": 49385978,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-02T12:38:33Z",
+            "open_issues": 0,
             "owner": "remarkjs",
             "repo": "remark-retext",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "markdown",
+              "mdast",
+              "natural-language",
+              "nlcst",
+              "remark",
+              "retext"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -272,12 +471,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugin to generate a license section",
+            "homepage": "https://remark.js.org",
             "id": 48794306,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-23T12:48:20Z",
+            "open_issues": 0,
             "owner": "remarkjs",
             "repo": "remark-license",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "license",
+              "markdown",
+              "remark",
+              "remark-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -288,12 +497,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "plugin to generate a list of Git contributors",
+            "homepage": "https://unifiedjs.com",
             "id": 135895427,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-23T12:38:48Z",
+            "open_issues": 0,
             "owner": "remarkjs",
             "repo": "remark-git-contributors",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "community",
+              "contributors",
+              "git",
+              "markdown",
+              "remark",
+              "remark-plugin",
+              "social",
+              "tooling"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -304,12 +527,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "markdown processor powered by plugins part of the @unifiedjs collective",
+            "homepage": "https://remark.js.org",
             "id": 22355214,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-01T11:01:38Z",
+            "open_issues": 12,
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 8987
+            "stars": 8987,
+            "topics": [
+              "ast",
+              "commonmark",
+              "javascript",
+              "markdown",
+              "remark",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         }
@@ -326,12 +561,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React-based framework with performance, scalability, and security built in.",
+            "homepage": "https://www.gatsbyjs.com",
             "id": 36040894,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T03:41:15Z",
+            "open_issues": 437,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941
+            "stars": 55941,
+            "topics": [
+              "blog",
+              "compiler",
+              "gatsby",
+              "graphql",
+              "react",
+              "static-site-generator",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -342,12 +590,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prettier is an opinionated code formatter.",
+            "homepage": "https://prettier.io",
             "id": 75104123,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T06:53:03Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:43:13Z",
+            "open_issues": 1417,
             "owner": "prettier",
             "repo": "prettier",
-            "stars": 52216
+            "stars": 52215,
+            "topics": [
+              "angular",
+              "ast",
+              "css",
+              "flow",
+              "formatter",
+              "graphql",
+              "html",
+              "javascript",
+              "json",
+              "jsx",
+              "less",
+              "markdown",
+              "prettier",
+              "printer",
+              "scss",
+              "typescript",
+              "vue",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -358,12 +630,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "✍ It has never been so easy to document your things!",
+            "homepage": null,
             "id": 125596489,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-21T04:28:57Z",
+            "open_issues": 110,
             "owner": "pedronauck",
             "repo": "docz",
-            "stars": 23581
+            "stars": 23581,
+            "topics": [
+              "design-system",
+              "docs",
+              "documentation",
+              "docz",
+              "gatsby",
+              "js",
+              "mdx",
+              "react",
+              "theme",
+              "ui",
+              "zero-configuration"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -374,12 +663,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown for the component era",
+            "homepage": "https://mdxjs.com",
             "id": 115229134,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T20:42:13Z",
+            "open_issues": 20,
             "owner": "mdx-js",
             "repo": "mdx",
-            "stars": 19758
+            "stars": 19758,
+            "topics": [
+              "jsx",
+              "markdown",
+              "mdx",
+              "react",
+              "remark",
+              "unified",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -390,12 +692,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Git-based CMS for Static Site Generators",
+            "homepage": "https://decapcms.org",
             "id": 29514104,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:41:03Z",
+            "open_issues": 591,
             "owner": "decaporg",
             "repo": "decap-cms",
-            "stars": 19321
+            "stars": 19321,
+            "topics": [
+              "cms",
+              "content-management-system",
+              "decap-cms",
+              "git-based-cms",
+              "headless-cms",
+              "jamstack",
+              "javascript",
+              "netlify-cms",
+              "npm-package",
+              "react",
+              "static",
+              "static-site",
+              "static-site-generator"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -406,12 +727,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown component for React",
+            "homepage": "https://remarkjs.github.io/react-markdown/",
             "id": 35848897,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-21T10:10:50Z",
+            "open_issues": 6,
             "owner": "remarkjs",
             "repo": "react-markdown",
-            "stars": 15867
+            "stars": 15866,
+            "topics": [
+              "commonmark",
+              "gfm",
+              "markdown",
+              "react",
+              "remark"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -422,12 +754,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":book: documentation for modern JavaScript",
+            "homepage": "http://documentation.js.org/",
             "id": 31936600,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-15T18:50:26Z",
+            "open_issues": 204,
             "owner": "documentationjs",
             "repo": "documentation",
-            "stars": 5799
+            "stars": 5799,
+            "topics": [
+              "babel",
+              "documentation",
+              "documentation-tool",
+              "javascript",
+              "jsdoc"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -438,12 +781,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A markdown preprocessor for Svelte.",
+            "homepage": "https://mdsvex.pngwn.io",
             "id": 164914161,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-25T08:22:54Z",
+            "open_issues": 174,
             "owner": "pngwn",
             "repo": "MDsveX",
-            "stars": 3048
+            "stars": 3049,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -454,12 +802,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ByteMD v1 repository",
+            "homepage": null,
             "id": 700488287,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-12T07:00:03Z",
+            "open_issues": 51,
             "owner": "pd4d10",
             "repo": "bytemd",
-            "stars": 1366
+            "stars": 1366,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -470,12 +823,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lint JavaScript code blocks in Markdown documents",
+            "homepage": null,
             "id": 38386462,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:08:18Z",
+            "open_issues": 25,
             "owner": "eslint",
             "repo": "markdown",
-            "stars": 579
+            "stars": 579,
+            "topics": [
+              "development",
+              "ecmascript",
+              "eslint",
+              "javascript",
+              "linter",
+              "markdown",
+              "static-code-analysis"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -486,12 +852,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PostCSS Syntax for parsing Markdown",
+            "homepage": null,
             "id": 128776873,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-11-04T08:20:56Z",
+            "open_issues": 3,
             "owner": "gucong3000",
             "repo": "postcss-markdown",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "css",
+              "html",
+              "markdown",
+              "postcss",
+              "syntax"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         }
@@ -508,12 +885,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+            "homepage": "https://contribute.freecodecamp.org",
             "id": 28457823,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T16:44:08Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T19:26:48Z",
+            "open_issues": 235,
             "owner": "freeCodeCamp",
             "repo": "freeCodeCamp",
-            "stars": 454741
+            "stars": 454756,
+            "topics": [
+              "careers",
+              "certification",
+              "community",
+              "curriculum",
+              "d3",
+              "education",
+              "freecodecamp",
+              "javascript",
+              "learn-to-code",
+              "math",
+              "nodejs",
+              "nonprofits",
+              "programming",
+              "react",
+              "teachers"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -524,12 +922,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+            "homepage": "https://nodejs.org",
             "id": 27193779,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T18:33:10Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:08:42Z",
+            "open_issues": 1191,
             "owner": "nodejs",
             "repo": "node",
-            "stars": 119655
+            "stars": 119662,
+            "topics": [
+              "javascript",
+              "js",
+              "linux",
+              "macos",
+              "mit",
+              "node",
+              "nodejs",
+              "runtime",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -540,12 +953,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+            "homepage": "https://storybook.js.org",
             "id": 54173593,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T13:37:31Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:09:18Z",
+            "open_issues": 1774,
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90956
+            "stars": 90958,
+            "topics": [
+              "angular",
+              "components",
+              "design-systems",
+              "documentation",
+              "html",
+              "javascript",
+              "react",
+              "react-native",
+              "stories",
+              "storybook",
+              "styleguide",
+              "svelte",
+              "testing",
+              "typescript",
+              "ui",
+              "vite",
+              "vue",
+              "web-components",
+              "webpack",
+              "workshop"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -556,12 +995,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A reactive programming library for JavaScript",
+            "homepage": "https://rxjs.dev",
             "id": 32247847,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-08T23:15:21Z",
+            "open_issues": 181,
             "owner": "ReactiveX",
             "repo": "rxjs",
-            "stars": 31703
+            "stars": 31702,
+            "topics": [
+              "javascript",
+              "rxjs"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -572,12 +1019,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚 Community guides for open source creators",
+            "homepage": "https://opensource.guide/",
             "id": 61204818,
             "language": "HTML",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-13T18:13:49Z",
+            "open_issues": 6,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15650
+            "stars": 15652,
+            "topics": [
+              "best-practices",
+              "documentation",
+              "hacktoberfest",
+              "open-source",
+              "oss",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -588,12 +1047,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Former git repo for WebFundamentals on developers.google.com",
+            "homepage": null,
             "id": 19249835,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-10T14:38:07Z",
+            "open_issues": 1201,
             "owner": "google",
             "repo": "WebFundamentals",
-            "stars": 13871
+            "stars": 13871,
+            "topics": [
+              "best-practices",
+              "chrome",
+              "chrome-browser",
+              "css",
+              "html",
+              "html5",
+              "javascript",
+              "mobile-web",
+              "progressive-web-app",
+              "web",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -604,12 +1080,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
+            "homepage": "https://stylelint.io",
             "id": 27549019,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T13:43:14Z",
+            "open_issues": 134,
             "owner": "stylelint",
             "repo": "stylelint",
-            "stars": 11517
+            "stars": 11516,
+            "topics": [
+              "css",
+              "enforce-conventions",
+              "lint",
+              "linter",
+              "postcss"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -620,12 +1107,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👑 Functional WebGL",
+            "homepage": "https://regl-project.github.io/",
             "id": 52315611,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-04T15:44:32Z",
+            "open_issues": 126,
             "owner": "regl-project",
             "repo": "regl",
-            "stars": 5577
+            "stars": 5577,
+            "topics": [
+              "javascript",
+              "regl",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -636,12 +1132,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular CSS minifier, built on top of the PostCSS ecosystem.",
+            "homepage": "https://cssnano.github.io/cssnano/",
             "id": 33943153,
             "language": "CSS",
-            "last_commit": "2026-08-28T15:05:18Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T19:05:40Z",
+            "open_issues": 56,
             "owner": "cssnano",
             "repo": "cssnano",
-            "stars": 4976
+            "stars": 4976,
+            "topics": [
+              "css",
+              "cssnano",
+              "minification",
+              "optimisation",
+              "postcss"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -652,12 +1159,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠",
+            "homepage": "https://firefox-dev.tools/",
             "id": 54585418,
             "language": null,
+            "license": null,
             "last_commit": "2023-01-11T19:07:25Z",
+            "open_issues": 0,
             "owner": "firefox-devtools",
             "repo": "debugger",
-            "stars": 4608
+            "stars": 4608,
+            "topics": [
+              "chrome",
+              "debugger",
+              "devtools",
+              "firefox",
+              "flowtype",
+              "javascript",
+              "mozilla",
+              "node",
+              "react",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         }
@@ -674,12 +1197,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":memo: Delightful Markdown stuff.",
+            "homepage": null,
             "id": 64252931,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-08-21T03:06:19Z",
+            "open_issues": 70,
             "owner": "BubuAnabelas",
             "repo": "awesome-markdown",
-            "stars": 955
+            "stars": 955,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "commonmark",
+              "gfm",
+              "list",
+              "markdown",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -690,12 +1226,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome MDX resources",
+            "homepage": null,
             "id": 143893040,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-07T09:14:59Z",
+            "open_issues": 0,
             "owner": "mdx-js",
             "repo": "awesome",
-            "stars": 334
+            "stars": 334,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "jsx",
+              "markdown",
+              "mdx",
+              "react",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -706,12 +1255,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of awesome rehype resources",
+            "homepage": "https://unifiedjs.com",
             "id": 156001375,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-10T13:25:24Z",
+            "open_issues": 0,
             "owner": "rehypejs",
             "repo": "awesome-rehype",
-            "stars": 239
+            "stars": 239,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "rehype",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -722,12 +1281,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of awesome unified resources",
+            "homepage": "https://unifiedjs.com",
             "id": 156001590,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-03T13:10:06Z",
+            "open_issues": 0,
             "owner": "unifiedjs",
             "repo": "awesome-unified",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         },
@@ -738,12 +1306,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of awesome retext resources",
+            "homepage": "https://unifiedjs.com",
             "id": 156001493,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-03T10:11:01Z",
+            "open_issues": 0,
             "owner": "retextjs",
             "repo": "awesome-retext",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "retext",
+              "unified"
+            ]
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
         }
@@ -752,15 +1330,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:36:06.416Z",
+    "last_updated": "2026-08-29T04:42:33.811Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome remark resources",
+      "homepage": "https://remark.js.org",
       "id": 156001210,
       "language": null,
+      "license": null,
       "last_commit": "2024-10-03T09:29:49Z",
+      "open_issues": 2,
       "owner": "remarkjs",
       "repo": "awesome-remark",
-      "stars": 494
+      "stars": 494,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "remark",
+        "unified"
+      ]
     },
     "original_repository_sha": "82427708991528ad21475151aea2311f2699d549",
     "enhanced_repository": "enhansome/enhansome-remark",
