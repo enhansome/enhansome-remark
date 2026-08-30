@@ -131,7 +131,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5024,
+            "stars": 5025,
             "topics": [
               "ast",
               "cst",
@@ -570,7 +570,7 @@
             "open_issues": 437,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55943,
+            "stars": 55944,
             "topics": [
               "blog",
               "compiler",
@@ -595,11 +595,11 @@
             "id": 75104123,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T03:43:13Z",
+            "last_commit": "2026-08-30T10:42:37Z",
             "open_issues": 1417,
             "owner": "prettier",
             "repo": "prettier",
-            "stars": 52219,
+            "stars": 52221,
             "topics": [
               "angular",
               "ast",
@@ -701,7 +701,7 @@
             "open_issues": 592,
             "owner": "decaporg",
             "repo": "decap-cms",
-            "stars": 19324,
+            "stars": 19327,
             "topics": [
               "cms",
               "content-management-system",
@@ -733,10 +733,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-04-21T10:10:50Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "remarkjs",
             "repo": "react-markdown",
-            "stars": 15866,
+            "stars": 15870,
             "topics": [
               "commonmark",
               "gfm",
@@ -790,7 +790,7 @@
             "open_issues": 174,
             "owner": "pngwn",
             "repo": "MDsveX",
-            "stars": 3049,
+            "stars": 3050,
             "topics": []
           },
           "first_seen": "2026-08-28T18:36:06.416Z"
@@ -890,11 +890,11 @@
             "id": 28457823,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T08:07:19Z",
-            "open_issues": 232,
+            "last_commit": "2026-08-30T10:15:11Z",
+            "open_issues": 230,
             "owner": "freeCodeCamp",
             "repo": "freeCodeCamp",
-            "stars": 454781,
+            "stars": 454723,
             "topics": [
               "careers",
               "certification",
@@ -927,11 +927,11 @@
             "id": 27193779,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T11:58:13Z",
-            "open_issues": 1193,
+            "last_commit": "2026-08-30T05:43:32Z",
+            "open_issues": 1201,
             "owner": "nodejs",
             "repo": "node",
-            "stars": 119664,
+            "stars": 119955,
             "topics": [
               "javascript",
               "js",
@@ -959,10 +959,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-29T09:18:03Z",
-            "open_issues": 1772,
+            "open_issues": 1771,
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 90957,
+            "stars": 90960,
             "topics": [
               "angular",
               "components",
@@ -1028,7 +1028,7 @@
             "open_issues": 6,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15653,
+            "stars": 15654,
             "topics": [
               "best-practices",
               "documentation",
@@ -1085,7 +1085,7 @@
             "id": 27549019,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-27T13:43:14Z",
+            "last_commit": "2026-08-30T00:58:53Z",
             "open_issues": 134,
             "owner": "stylelint",
             "repo": "stylelint",
@@ -1330,7 +1330,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:38:49.080Z",
+    "last_updated": "2026-08-30T11:50:15.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome remark resources",
