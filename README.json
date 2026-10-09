@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 9012,
+            "stars": 9014,
             "topics": [
               "ast",
               "commonmark",
@@ -47,7 +47,7 @@
             "open_issues": 10,
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 9012,
+            "stars": 9014,
             "topics": [
               "ast",
               "commonmark",
@@ -75,7 +75,7 @@
             "open_issues": 10,
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 9012,
+            "stars": 9014,
             "topics": [
               "ast",
               "commonmark",
@@ -103,7 +103,7 @@
             "open_issues": 10,
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 9012,
+            "stars": 9014,
             "topics": [
               "ast",
               "commonmark",
@@ -131,7 +131,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5038,
+            "stars": 5039,
             "topics": [
               "ast",
               "cst",
@@ -193,7 +193,7 @@
             "open_issues": 21,
             "owner": "mdx-js",
             "repo": "mdx",
-            "stars": 19817,
+            "stars": 19818,
             "topics": [
               "jsx",
               "markdown",
@@ -536,7 +536,7 @@
             "open_issues": 10,
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 9012,
+            "stars": 9014,
             "topics": [
               "ast",
               "commonmark",
@@ -570,7 +570,7 @@
             "open_issues": 453,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55939,
+            "stars": 55938,
             "topics": [
               "blog",
               "compiler",
@@ -595,11 +595,11 @@
             "id": 75104123,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T13:19:19Z",
-            "open_issues": 1473,
+            "last_commit": "2026-10-09T11:24:34Z",
+            "open_issues": 1464,
             "owner": "prettier",
             "repo": "prettier",
-            "stars": 52416,
+            "stars": 52414,
             "topics": [
               "angular",
               "ast",
@@ -672,7 +672,7 @@
             "open_issues": 21,
             "owner": "mdx-js",
             "repo": "mdx",
-            "stars": 19817,
+            "stars": 19818,
             "topics": [
               "jsx",
               "markdown",
@@ -697,11 +697,11 @@
             "id": 29514104,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T12:34:05Z",
+            "last_commit": "2026-10-08T16:23:04Z",
             "open_issues": 608,
             "owner": "decaporg",
             "repo": "decap-cms",
-            "stars": 19419,
+            "stars": 19423,
             "topics": [
               "cms",
               "content-management-system",
@@ -736,7 +736,7 @@
             "open_issues": 5,
             "owner": "remarkjs",
             "repo": "react-markdown",
-            "stars": 15906,
+            "stars": 15908,
             "topics": [
               "commonmark",
               "gfm",
@@ -763,7 +763,7 @@
             "open_issues": 204,
             "owner": "documentationjs",
             "repo": "documentation",
-            "stars": 5795,
+            "stars": 5796,
             "topics": [
               "babel",
               "documentation",
@@ -832,7 +832,7 @@
             "open_issues": 31,
             "owner": "eslint",
             "repo": "markdown",
-            "stars": 580,
+            "stars": 581,
             "topics": [
               "development",
               "ecmascript",
@@ -890,11 +890,11 @@
             "id": 28457823,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-08T13:16:33Z",
-            "open_issues": 204,
+            "last_commit": "2026-10-09T13:07:38Z",
+            "open_issues": 197,
             "owner": "freeCodeCamp",
             "repo": "freeCodeCamp",
-            "stars": 456937,
+            "stars": 456746,
             "topics": [
               "careers",
               "certification",
@@ -927,11 +927,11 @@
             "id": 27193779,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T12:38:01Z",
-            "open_issues": 1177,
+            "last_commit": "2026-10-09T12:57:48Z",
+            "open_issues": 1189,
             "owner": "nodejs",
             "repo": "node",
-            "stars": 122435,
+            "stars": 122257,
             "topics": [
               "javascript",
               "js",
@@ -958,11 +958,11 @@
             "id": 54173593,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T13:15:48Z",
+            "last_commit": "2026-10-09T13:05:06Z",
             "open_issues": 1884,
             "owner": "storybookjs",
             "repo": "storybook",
-            "stars": 91208,
+            "stars": 91211,
             "topics": [
               "angular",
               "components",
@@ -1004,7 +1004,7 @@
             "open_issues": 191,
             "owner": "ReactiveX",
             "repo": "rxjs",
-            "stars": 31692,
+            "stars": 31689,
             "topics": [
               "javascript",
               "rxjs"
@@ -1028,7 +1028,7 @@
             "open_issues": 9,
             "owner": "github",
             "repo": "opensource.guide",
-            "stars": 15720,
+            "stars": 15722,
             "topics": [
               "best-practices",
               "documentation",
@@ -1085,11 +1085,11 @@
             "id": 27549019,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T10:27:36Z",
-            "open_issues": 129,
+            "last_commit": "2026-10-09T12:21:00Z",
+            "open_issues": 128,
             "owner": "stylelint",
             "repo": "stylelint",
-            "stars": 11527,
+            "stars": 11528,
             "topics": [
               "css",
               "enforce-conventions",
@@ -1116,7 +1116,7 @@
             "open_issues": 127,
             "owner": "regl-project",
             "repo": "regl",
-            "stars": 5586,
+            "stars": 5587,
             "topics": [
               "javascript",
               "regl",
@@ -1137,11 +1137,11 @@
             "id": 33943153,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-10-08T12:38:10Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-09T08:30:53Z",
+            "open_issues": 25,
             "owner": "cssnano",
             "repo": "cssnano",
-            "stars": 4977,
+            "stars": 4978,
             "topics": [
               "css",
               "cssnano",
@@ -1168,7 +1168,7 @@
             "open_issues": 0,
             "owner": "firefox-devtools",
             "repo": "debugger",
-            "stars": 4606,
+            "stars": 4607,
             "topics": [
               "chrome",
               "debugger",
@@ -1206,7 +1206,7 @@
             "open_issues": 77,
             "owner": "BubuAnabelas",
             "repo": "awesome-markdown",
-            "stars": 959,
+            "stars": 960,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1330,7 +1330,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T13:19:54.527Z",
+    "last_updated": "2026-10-09T13:08:06.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome remark resources",
