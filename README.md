@@ -33,12 +33,12 @@ It’s all part of the [unified][] collective.
 
 ## Official
 
-* [remark](https://github.com/remarkjs/remark) ⭐ 9,044 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27 - Repository.
-* [remark-parse](https://github.com/remarkjs/remark/tree/main/packages/remark-parse) ⭐ 9,044 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27 - Markdown parser.
-* [remark-stringify](https://github.com/remarkjs/remark/tree/main/packages/remark-stringify) ⭐ 9,044 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27 - Markdown generator.
-* [remark-cli](https://github.com/remarkjs/remark/tree/main/packages/remark-cli) ⭐ 9,044 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27 - Command line interface.
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,056 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
-* [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,489 | 🐛 0 | 📅 2026-02-04 - Abstract syntax tree specification.
+* [remark](https://github.com/remarkjs/remark) ⭐ 9,043 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27 - Repository.
+* [remark-parse](https://github.com/remarkjs/remark/tree/main/packages/remark-parse) ⭐ 9,043 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27 - Markdown parser.
+* [remark-stringify](https://github.com/remarkjs/remark/tree/main/packages/remark-stringify) ⭐ 9,043 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27 - Markdown generator.
+* [remark-cli](https://github.com/remarkjs/remark/tree/main/packages/remark-cli) ⭐ 9,043 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27 - Command line interface.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,055 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Ecosystem.
+* [mdast](https://github.com/syntax-tree/mdast) ⭐ 1,488 | 🐛 0 | 📅 2026-02-04 - Abstract syntax tree specification.
 * [remark.js.org](https://remark.js.org) - Website.
 * [unifiedjs.com](https://unifiedjs.com) - Ecosystem website.
 
@@ -46,7 +46,7 @@ It’s all part of the [unified][] collective.
 
 * [remark-mdx](https://github.com/mdx-js/mdx/tree/main/packages/remark-mdx) ⭐ 19,868 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-20 - Support MDX.
 * [remark-gfm](https://github.com/remarkjs/remark-gfm) ⭐ 1,259 | 🐛 2 | 🌐 JavaScript | 📅 2025-02-10 - Support GitHub Flavored Markdown (GFM).
-* [remark-lint](https://github.com/remarkjs/remark-lint) ⭐ 1,043 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-05 - Markdown code-style linter.
+* [remark-lint](https://github.com/remarkjs/remark-lint) ⭐ 1,042 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-05 - Markdown code-style linter.
 * [remark-math](https://github.com/remarkjs/remark-math) ⭐ 519 | 🐛 9 | 🌐 JavaScript | 📅 2025-02-20 - Support math.
 * [remark-toc](https://github.com/remarkjs/remark-toc) ⭐ 498 | 🐛 0 | 🌐 JavaScript | 📅 2023-09-20 - Add a tables of contents.
 * [remark-rehype](https://github.com/remarkjs/remark-rehype) ⭐ 361 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-02 - Integrate with the [rehype][] ecosystem.
@@ -57,18 +57,18 @@ It’s all part of the [unified][] collective.
 * [remark-license](https://github.com/remarkjs/remark-license) ⭐ 21 | 🐛 0 | 🌐 JavaScript | 📅 2023-09-23 - Add a license section.
 * [remark-git-contributors](https://github.com/remarkjs/remark-git-contributors) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-23 - Add a table with git contributors.
 
-[Find more plugins »](https://github.com/remarkjs/remark/blob/main/doc/plugins.md#list-of-plugins) ⭐ 9,044 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27
+[Find more plugins »](https://github.com/remarkjs/remark/blob/main/doc/plugins.md#list-of-plugins) ⭐ 9,043 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27
 
 ## Built on remark
 
-* [gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,914 | 🐛 462 | 🌐 JavaScript | 📅 2026-11-20 - Blazing fast, modern apps and websites with React.
-* [prettier](https://github.com/prettier/prettier) ⭐ 52,443 | 🐛 1,480 | 🌐 JavaScript | 📅 2026-11-22 - Opinionated code formatter.
+* [gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,915 | 🐛 462 | 🌐 JavaScript | 📅 2026-11-20 - Blazing fast, modern apps and websites with React.
+* [prettier](https://github.com/prettier/prettier) ⭐ 52,449 | 🐛 1,476 | 🌐 JavaScript | 📅 2026-11-23 - Opinionated code formatter.
 * [docz](https://github.com/doczjs/docz) ⚠️ Archived - Document your design system.
 * [mdx](https://github.com/mdx-js/mdx) ⭐ 19,868 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-20 - Markdown combined with JSX.
-* [netlify-cms](https://github.com/netlify/netlify-cms) ⭐ 19,495 | 🐛 394 | 🌐 JavaScript | 📅 2026-11-22 - CMS for static site generators.
-* [react-markdown](https://github.com/remarkjs/react-markdown) ⭐ 15,941 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-03 - Render markdown as React components.
-* [documentation.js](https://github.com/documentationjs/documentation) ⭐ 5,793 | 🐛 204 | 🌐 JavaScript | 📅 2025-04-15 - Documentation system for modern JavaScript.
-* [mdsvex](https://github.com/pngwn/MDsveX) ⭐ 3,084 | 🐛 75 | 🌐 TypeScript | 📅 2026-11-21 - Markdown preprocessor for Svelte.
+* [netlify-cms](https://github.com/netlify/netlify-cms) ⭐ 19,500 | 🐛 393 | 🌐 JavaScript | 📅 2026-11-22 - CMS for static site generators.
+* [react-markdown](https://github.com/remarkjs/react-markdown) ⭐ 15,942 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-03 - Render markdown as React components.
+* [documentation.js](https://github.com/documentationjs/documentation) ⭐ 5,792 | 🐛 204 | 🌐 JavaScript | 📅 2025-04-15 - Documentation system for modern JavaScript.
+* [mdsvex](https://github.com/pngwn/MDsveX) ⭐ 3,086 | 🐛 75 | 🌐 TypeScript | 📅 2026-11-21 - Markdown preprocessor for Svelte.
 * [bytemd](https://github.com/bytedance/bytemd) ⭐ 1,378 | 🐛 49 | 🌐 TypeScript | 📅 2025-02-12 - Hackable markdown editor component.
 * [eslint-plugin-markdown](https://github.com/eslint/eslint-plugin-markdown) ⭐ 582 | 🐛 26 | 🌐 JavaScript | 📅 2026-11-19 - Lint JavaScript in markdown.
 * [postcss-markdown](https://github.com/gucong3000/postcss-markdown) ⭐ 20 | 🐛 3 | 🌐 JavaScript | 📅 2020-11-04 - Process CSS in markdown.
@@ -76,15 +76,15 @@ It’s all part of the [unified][] collective.
 
 ## Built with remark
 
-* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 459,472 | 🐛 160 | 🌐 TypeScript | 📅 2026-11-21 - Learn to code for free.
-* [Node.js](https://github.com/nodejs/node) ⭐ 123,903 | 🐛 1,303 | 🌐 JavaScript | 📅 2026-11-22 - Node.js JavaScript runtime.
-* [storybook](https://github.com/storybooks/storybook) ⭐ 91,678 | 🐛 1,900 | 🌐 TypeScript | 📅 2026-11-22 - Interactive UI component dev & test.
-* [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,721 | 🐛 205 | 🌐 TypeScript | 📅 2026-11-19 - Reactive Extensions For JavaScript.
-* [opensource.guide](https://github.com/github/opensource.guide) ⭐ 15,813 | 🐛 11 | 🌐 HTML | 📅 2026-11-16 - Community guides for open source creators.
+* [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 459,535 | 🐛 159 | 🌐 TypeScript | 📅 2026-11-23 - Learn to code for free.
+* [Node.js](https://github.com/nodejs/node) ⭐ 123,955 | 🐛 1,297 | 🌐 JavaScript | 📅 2026-11-23 - Node.js JavaScript runtime.
+* [storybook](https://github.com/storybooks/storybook) ⭐ 91,697 | 🐛 1,897 | 🌐 TypeScript | 📅 2026-11-23 - Interactive UI component dev & test.
+* [rxjs](https://github.com/ReactiveX/rxjs) ⭐ 31,722 | 🐛 205 | 🌐 TypeScript | 📅 2026-11-19 - Reactive Extensions For JavaScript.
+* [opensource.guide](https://github.com/github/opensource.guide) ⭐ 15,815 | 🐛 11 | 🌐 HTML | 📅 2026-11-16 - Community guides for open source creators.
 * [WebFundamentals](https://github.com/google/WebFundamentals) ⚠️ Archived - Best practices for modern web development (by [Google](https://opensource.google.com)).
-* [stylelint](https://github.com/stylelint/stylelint) ⭐ 11,558 | 🐛 104 | 🌐 JavaScript | 📅 2026-11-20 - Mighty, modern style linter.
-* [regl](https://github.com/regl-project/regl) ⭐ 5,601 | 🐛 127 | 🌐 JavaScript | 📅 2026-10-17 - Functional WebGL.
-* [cssnano](https://github.com/cssnano/cssnano) ⭐ 4,980 | 🐛 19 | 🌐 JavaScript | 📅 2026-11-21 - Modular minifier built on top of PostCSS.
+* [stylelint](https://github.com/stylelint/stylelint) ⭐ 11,557 | 🐛 106 | 🌐 JavaScript | 📅 2026-11-23 - Mighty, modern style linter.
+* [regl](https://github.com/regl-project/regl) ⭐ 5,602 | 🐛 127 | 🌐 JavaScript | 📅 2026-10-17 - Functional WebGL.
+* [cssnano](https://github.com/cssnano/cssnano) ⭐ 4,980 | 🐛 19 | 🌐 JavaScript | 📅 2026-11-23 - Modular minifier built on top of PostCSS.
 * [debugger.html](https://github.com/devtools-html/debugger.html) ⚠️ Archived - Firefox debugger (by [Mozilla](https://www.mozilla.org)).
 * [AST explorer](https://astexplorer.net) - Visualization of abstract syntax trees.
 * [Elder.js](https://elderguide.com/tech/elderjs/) - An Opinionated, SEO focused, Svelte Framework.
@@ -123,4 +123,4 @@ It’s all part of the [unified][] collective.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
